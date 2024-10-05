@@ -99,6 +99,59 @@ contact:
   snapchat:                 # https://www.snapchat.com/add/<username>
   twitch:                   # https://www.twitch.tv/<username>
 
+education:
+  show: true
+  order: 5
+  title: Education
+  description: |
+    The education section in a resume is where you provide information about your academic background, including any degrees. In this section, you should include the name and location of the institution where you received your degree, the name of the degree or program you completed, and the date of graduation. If you have earned multiple degrees, list them in reverse chronological order, with the most recent degree first.
+
+    In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
+
+  items:
+    - institution: Communication University of China(Project 211)
+      link: 'https://www.cuc.edu.cn/'
+      date: 09/2021 - 06/2025
+      major: Cyberspace Security
+      degree: Bachelor
+      description: |
+        Additional information for this institution.
+        + GPA : 3.67/4.00 (10%)
+        + Relevant Courses :  
+
+
+
+project:
+  show: true
+  order: 3
+  title: Projects
+  description: |
+    The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
+
+    In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
+
+    The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
+
+  items:
+    - name: Personal project
+      link: '#'
+      tags:
+      date: 2015 - 2017
+      description: |
+        Personal project description...
+        + First
+        + Second
+
+    - name: OSS project
+      link:
+      tags: committer
+      date:
+      description: |
+        OSS project description...
+        + First
+        + Second
+
+
 profile:
   show: true
   order: 1
@@ -138,35 +191,7 @@ experience:
         + First
         + Second
 
-project:
-  show: true
-  order: 3
-  title: Projects
-  description: |
-    The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
 
-    In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
-
-    The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
-
-  items:
-    - name: Personal project
-      link: '#'
-      tags:
-      date: 2015 - 2017
-      description: |
-        Personal project description...
-        + First
-        + Second
-
-    - name: OSS project
-      link:
-      tags: committer
-      date:
-      description: |
-        OSS project description...
-        + First
-        + Second
 
 skill:
   show: true
@@ -218,35 +243,7 @@ skill:
         - Skill H
         - Skill I
 
-education:
-  show: true
-  order: 5
-  title: Education
-  description: |
-    The education section in a resume is where you provide information about your academic background, including any degrees. In this section, you should include the name and location of the institution where you received your degree, the name of the degree or program you completed, and the date of graduation. If you have earned multiple degrees, list them in reverse chronological order, with the most recent degree first.
 
-    In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
-
-  items:
-    - institution: Example University
-      link: '#'
-      date: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      description: |
-        Additional information for this institution.
-        + First
-        + Second
-
-    - institution: Example University
-      link:
-      date: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      description: |
-        Additional information for this institution.
-        + First
-        + Second
 
 certificate:
   show: true
