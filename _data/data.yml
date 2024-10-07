@@ -43,7 +43,7 @@ education:
 
 project:
   show: true
-  order: 2
+  order: 3
   title: Projects
   items:
     - name: China Enterprise Brand Case Bank
@@ -74,7 +74,7 @@ project:
 
 experience:
   show: true
-  order: 3
+  order: 4
   title: Competition Experiences
   # description: |
   #   The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
@@ -98,38 +98,9 @@ skill:
     + Languages : Madarian(native), English(proficient), Japanese(basic)
     + Skills: 
 
-
-
-certificate:
-  show: false
-  order: 6
-  title: Certificates
-  description: |
-    The certificate section in a resume is a dedicated section where you can showcase any additional certifications or specialized training you have received. This section provides potential employers with a more complete picture of your skills and expertise, and can help you stand out from other candidates.
-
-    Certificates can come from a variety of sources, such as online courses, workshops, or professional development programs. Examples of certificates that might be relevant to include on your resume could include certifications in a particular software or technology, industry-specific certifications, or certifications related to a specific skill or area of expertise.
-
-    When including your certificates in your resume, be sure to provide the name of the certification, the institution or organization that issued it, and the date it was issued. You may also want to include a brief description of the skills or knowledge that the certification demonstrates.
-
-    The certificate section of your resume should be tailored to the specific job you are applying for, and should only include certifications that are relevant to the position. By highlighting your certifications, you can demonstrate your commitment to professional development and your expertise in a particular area.
-
-  items:
-    - name: Example Certificate One
-      issuer: by Example
-      date: 2020
-      link: '#'
-      description: |
-        It's my Example Certificate One by Example.
-    - name: Example Certificate Two
-      issuer: by Example
-      date: 2020
-      link:
-      description: |
-        It's my Example Certificate Two by Example.
-
 publication:
   show: true
-  order: 4
+  order: 2
   title: Research Experiments
   items:
     - title: Large Language Model for Bundle Generation
@@ -141,36 +112,61 @@ publication:
         + Engaged in a comprehensive literature review of cutting-edge research on Bundle Generation, exploring the integration of large language models to improve task performance.
         + Developed and tested prototype solutions, contributing to the advancement of intelligent recommendation systems.
     - title: Privacy-Preserving Computing with XGBoost 
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
+      authors: Leader
+      conference: College Students' Innovative Entrepreneurial Training Program, Ministry Level Project
       description: |
         + Led a team in the investigation and implementation of privacy-preserving techniques utilizing XGBoost for predictive modeling, achieving provincial-level innovation project funding.
         + Researched and replicated a privacy-preserving predictive model based on Federated XGBoost, enhancing understanding of decentralized machine learning and its implications for data privacy.
 award:
   show: true
-  order: 8
+  order: 5
   title: Awards
-  description: |
-    The award section in a resume is a dedicated section where you can showcase any awards you have received. This section is particularly relevant for individuals who have received awards for their work in their field, such as employees who have received performance awards or industry-specific awards. In this section, you should list the name of the award, the organization or institution that awarded it, the date it was awarded, and any other relevant details.
-
-    When including your awards on your resume, be sure to focus on the most significant or relevant awards that showcase your skills and expertise. If you have received a long list of awards, you may want to consider including only the most recent or prestigious awards on your resume.
-
-    By highlighting your awards, you can demonstrate your achievements and accomplishments in your field, and can help differentiate yourself from other candidates. However, if you have not received any awards, it is not necessary to include this section in your resume.
-
   items:
-    - name: Example Awared One
-      awarder: by Example
-      date: 2022
-      link: '#'
-      description: |
-        It's my Example Awared One by Example.
-    - name: Example Awared Two
-      awarder: by Example
+    - name: Merit Student
+      awarder: by Communication University of China
+      date: 2022, 2023
+      # link: '#'
+      # description: |
+      #   It's my Example Awared One by Example.
+    - name: Excellent Student Cadre
+      awarder:  by Communication University of China
       date: 2022
       link:
-      description: |
-        It's my Example Awared Two by Example.
+      # description: |
+      #   It's my Example Awared Two by Example.
+    - name: National Encouragement Scholarship
+      awarder: by China
+      date: 2022, 2023
+      # link: '#'
+
+# certificate:
+#   show: false
+#   order: 6
+#   title: Certificates
+#   description: |
+#     The certificate section in a resume is a dedicated section where you can showcase any additional certifications or specialized training you have received. This section provides potential employers with a more complete picture of your skills and expertise, and can help you stand out from other candidates.
+
+#     Certificates can come from a variety of sources, such as online courses, workshops, or professional development programs. Examples of certificates that might be relevant to include on your resume could include certifications in a particular software or technology, industry-specific certifications, or certifications related to a specific skill or area of expertise.
+
+#     When including your certificates in your resume, be sure to provide the name of the certification, the institution or organization that issued it, and the date it was issued. You may also want to include a brief description of the skills or knowledge that the certification demonstrates.
+
+#     The certificate section of your resume should be tailored to the specific job you are applying for, and should only include certifications that are relevant to the position. By highlighting your certifications, you can demonstrate your commitment to professional development and your expertise in a particular area.
+
+#   items:
+#     - name: Example Certificate One
+#       issuer: by Example
+#       date: 2020
+#       link: '#'
+#       description: |
+#         It's my Example Certificate One by Example.
+#     - name: Example Certificate Two
+#       issuer: by Example
+#       date: 2020
+#       link:
+#       description: |
+#         It's my Example Certificate Two by Example.
+
+
 
 # patent:
 #   show: false
