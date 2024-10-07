@@ -38,6 +38,11 @@
           <span>{{ item.conference }}</span>
         </div>
         {%- endif %}
+        {%- if item.description.size > 0 %}
+        <div class="description markdown">
+          {{ item.description | markdownify }}
+        </div>
+        {%- endif %}
         {%- endif %}
 
       </div>
