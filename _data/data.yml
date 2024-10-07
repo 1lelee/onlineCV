@@ -104,13 +104,14 @@ publication:
   title: Research Experiments
   items:
     - title: Large Language Model for Bundle Generation
-      # authors: Foo Bar
-      # conference: Foobar, 2019
+      authors: Multimedia Computing Laboratory Academic Training Season, Communication University of China
+      conference: Duration:  Aug 2023 - now
       # link: '#'
       description: |
         + Conducted foundational model implementations, including SVD, Factorization Machines (FM), Bayesian Personalized Ranking (BPR), and LightGCN, to enhance coding proficiency and understanding of recommendation algorithms.
         + Engaged in a comprehensive literature review of cutting-edge research on Bundle Generation, exploring the integration of large language models to improve task performance.
         + Developed and tested prototype solutions, contributing to the advancement of intelligent recommendation systems.
+
     - title: Privacy-Preserving Computing with XGBoost 
       authors: Leader
       conference: College Students' Innovative Entrepreneurial Training Program, Ministry Level Project
