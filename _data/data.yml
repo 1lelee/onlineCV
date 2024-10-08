@@ -51,18 +51,18 @@ project:
       tags:
       date: 2024
       description: |
-        + Led the front-end and back-end development using the Vue.js framework and vben, implementing real-time data display and user interaction features to enhance user experience.
-        + Participated in fine-tuning the brand large model, focusing on its application in brand reputation analysis to facilitate intelligent brand management.
+       + Led the front-end and back-end development using the Vue.js framework and vben, implementing real-time data display and user interaction features to enhance user experience.
+        + Participated in fine-tuning the brand large model using low-rank matrix factorization methods, with a focus on its application in brand reputation analysis to facilitate intelligent brand management.
         + Conducted preliminary research for the brand reputation index, utilizing the Analytic Hierarchy Process (AHP) and Entropy Method to establish a reputation index model, supporting data-driven decision-making.
-        + Collaborated as a team member to provide technical support for the 2025 China Advertising Great Wall Award, bridging the gap between academia and industry.
+        + Collaborated as a team member to provide technical support for the 2025 China Advertising Great Wall Award.
 
     - name: Digital Museum of Chinese Language and Characters Project
       link:
       # tags: committer
       date: 2023
       description: |
-        + Platform Development: Contributed to the development of the digital museum platform, utilizing the Vue.js framework to create a responsive front-end interface that enhances user experience and interactivity.
-        + Video Security: Implemented HLS (HTTP Live Streaming) protocol for encrypting streaming video, ensuring the security of digital resources during transmission and playback, successfully generating M3U8 index files containing encryption information.
+        + Contributed to the creation of the digital museum platform by utilizing the Vue.js framework to develop a responsive front-end interface, significantly enhancing user experience and interactivity.
+        + Implemented the HTTP Live Streaming (HLS) protocol to encrypt streaming video, ensuring the secure transmission and playback of digital resources. Successfully generated M3U8 index files that contained encryption information, safeguarding the integrity of the content.
 
     - name: 
       link:
@@ -86,9 +86,9 @@ experience:
       date: 2024.02
       # role: Backend Developer
       # location: Beijing
-      description: |
-        + Independently tackled Problem 2 and collaboratively addressed Problem 3 with teammate.
-        + Innovatively employed large language models to assist in scoring.
+      # description: |
+      #   + Independently tackled Problem 2 and collaboratively addressed Problem 3 with teammate.
+      #   + Innovatively employed large language models to assist in scoring.
 
 skill:
   show: true
@@ -96,7 +96,7 @@ skill:
   title: Skills&Languages
   description: |
     + Languages : Madarian(native), English(proficient), Japanese(basic)
-    + Skills: 
+    + Skills: Python, C, Pytorch, vue.js, flask
 
 publication:
   show: true
@@ -108,16 +108,17 @@ publication:
       conference: Duration:  Aug 2023 - now
       # link: '#'
       description: |
-        + Conducted foundational model implementations, including SVD, Factorization Machines (FM), Bayesian Personalized Ranking (BPR), and LightGCN, to enhance coding proficiency and understanding of recommendation algorithms.
-        + Engaged in a comprehensive literature review of cutting-edge research on Bundle Generation, exploring the integration of large language models to improve task performance.
-        + Developed and tested prototype solutions, contributing to the advancement of intelligent recommendation systems.
+        + Conducted foundational model implementations, including Singular Value Decomposition (SVD), Factorization Machines (FM), Bayesian Personalized Ranking (BPR), and LightGCN, enhancing coding proficiency and deepening understanding of recommendation algorithms.
+        + Engaged in an extensive literature review of cutting-edge research on Bundle Generation, synthesizing insights from recent publications to identify gaps and potential improvements in existing methodologies.
+        + Actively contributed to team discussions by presenting findings from literature, proposing innovative approaches to integrate large language models for improved task performance in intelligent recommendation systems.
 
     - title: Privacy-Preserving Computing with XGBoost 
       authors: Leader
       conference: College Students' Innovative Entrepreneurial Training Program, Ministry Level Project
       description: |
-        + Led a team in the investigation and implementation of privacy-preserving techniques utilizing XGBoost for predictive modeling, achieving provincial-level innovation project funding.
-        + Researched and replicated a privacy-preserving predictive model based on Federated XGBoost, enhancing understanding of decentralized machine learning and its implications for data privacy.
+        + Led a multidisciplinary team in exploring and implementing privacy-preserving techniques using XGBoost for predictive modeling, successfully securing provincial-level innovation project funding.
+        + Conducted in-depth research and replication of a privacy-preserving predictive model based on Federated XGBoost, deepening understanding of decentralized machine learning and its vital role in enhancing data privacy.
+
 award:
   show: true
   order: 5
