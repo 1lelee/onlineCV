@@ -3,7 +3,7 @@ meta:
   language: en              # text language, the value is HTML lang attribute value, default is "en"
 
 basic:
-  name: Yile Li (李怡乐)                     # name
+  name: Yile Li                     # name
 
   avatar:
     show: false                       # show or hide avatar
@@ -38,7 +38,7 @@ education:
       major: Cyberspace Security
       degree: Bachelor
       description: |
-        + GPA : 3.67/4.00 (top 10%)
+        + GPA : 3.67/4.00
         + Relevant Courses : Artificial Intelligence(96), Computer Composition and System Architecture(97), Reverse Engineering and Software Security(98), Cybersecurity(97)
 
 project:
@@ -48,13 +48,13 @@ project:
   items:
     - name: China Enterprise Brand Case Bank
       link: 
-      tags:
+      tags: 
       date: 2024
       description: |
        + Led the front-end and back-end development using the Vue.js framework and vben, implementing real-time data display and user interaction features to enhance user experience.
-        + Participated in fine-tuning the brand large model using low-rank matrix factorization methods, with a focus on its application in brand reputation analysis to facilitate intelligent brand management.
-        + Conducted preliminary research for the brand reputation index, utilizing the Analytic Hierarchy Process (AHP) and Entropy Method to establish a reputation index model, supporting data-driven decision-making.
-        + Collaborated as a team member to provide technical support for the 2025 China Advertising Great Wall Award.
+       + Participated in fine-tuning the brand large model using low-rank matrix factorization methods, with a focus on its application in brand reputation analysis to facilitate intelligent brand management.
+       + Conducted preliminary research for the brand reputation index, utilizing the Analytic Hierarchy Process (AHP) and Entropy Method to establish a reputation index model, supporting data-driven decision-making.
+       + Collaborated as a team member to provide technical support for the 2025 China Advertising Great Wall Award.
 
     - name: Digital Museum of Chinese Language and Characters Project
       link:
@@ -63,14 +63,6 @@ project:
       description: |
         + Contributed to the creation of the digital museum platform by utilizing the Vue.js framework to develop a responsive front-end interface, significantly enhancing user experience and interactivity.
         + Implemented the HTTP Live Streaming (HLS) protocol to encrypt streaming video, ensuring the secure transmission and playback of digital resources. Successfully generated M3U8 index files that contained encryption information, safeguarding the integrity of the content.
-
-    - name: 
-      link:
-      # tags: committer
-      date: 2023
-      description: |
-        + Platform Development: Contributed to the development of the digital museum platform, utilizing the Vue.js framework to create a responsive front-end interface that enhances user experience and interactivity.
-        + Video Security: Implemented HLS (HTTP Live Streaming) protocol for encrypting streaming video, ensuring the security of digital resources during transmission and playback, successfully generating M3U8 index files containing encryption information.
 
 experience:
   show: true
@@ -125,19 +117,19 @@ award:
   title: Awards
   items:
     - name: Merit Student
-      awarder: by Communication University of China
+      # awarder: by Communication University of China
       date: 2022, 2023
       # link: '#'
       # description: |
       #   It's my Example Awared One by Example.
     - name: Excellent Student Cadre
-      awarder:  by Communication University of China
+      # awarder:  by Communication University of China
       date: 2022
       link:
       # description: |
       #   It's my Example Awared Two by Example.
     - name: National Encouragement Scholarship
-      awarder: by China
+      # awarder: by China
       date: 2022, 2023
       # link: '#'
 
