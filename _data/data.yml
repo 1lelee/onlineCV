@@ -97,7 +97,7 @@ publication:
   items:
     - title: Large Language Model for Bundle Generation
       authors: Multimedia Computing Laboratory Academic Training Season, Communication University of China
-      conference: Duration:  Aug 2023 - now
+      conference: Duration:Aug 2023 - now
       # link: '#'
       description: |
         + Conducted foundational model implementations, including Singular Value Decomposition (SVD), Factorization Machines (FM), Bayesian Personalized Ranking (BPR), and LightGCN, enhancing coding proficiency and deepening understanding of recommendation algorithms.
@@ -105,7 +105,7 @@ publication:
         + Actively contributed to team discussions by presenting findings from literature, proposing innovative approaches to integrate large language models for improved task performance in intelligent recommendation systems.
 
     - title: Privacy-Preserving Computing with XGBoost 
-      authors: Leader
+      authors: Team Leader
       conference: College Students' Innovative Entrepreneurial Training Program, Ministry Level Project
       description: |
         + Led a multidisciplinary team in exploring and implementing privacy-preserving techniques using XGBoost for predictive modeling, successfully securing provincial-level innovation project funding.
