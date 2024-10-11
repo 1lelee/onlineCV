@@ -31,6 +31,13 @@
             {%- endif %}
           </div>
 
+          {%- if item.authors %}
+          <div class="authors">
+            <span>{{ item.authors }}</span>
+          </div>
+          {%- endif %}
+          
+
           {%- if item.date %}
           <div class="date">
             <span>{{ item.date }}</span>

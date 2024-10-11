@@ -48,21 +48,29 @@ project:
   items:
     - name: China Enterprise Brand Case Bank
       link: 
-      tags: 
+      authors: Communication University of China, National Key Laboratory of Media Convergence and Communication, Key Project of the Ministry of Education
       date: 2024
       description: |
-       + Led the front-end and back-end development using the Vue.js framework and vben, implementing real-time data display and user interaction features to enhance user experience.
+       + Led the front-end and back-end development using the Vue.js framework, vben and flask, implementing real-time data display and user interaction features to enhance user experience.
        + Participated in fine-tuning the brand large model using low-rank matrix factorization methods, with a focus on its application in brand reputation analysis to facilitate intelligent brand management.
-       + Conducted preliminary research for the brand reputation index, utilizing the Analytic Hierarchy Process (AHP) and Entropy Method to establish a reputation index model, supporting data-driven decision-making.
+       + Conducted preliminary research to develop a brand reputation index, employing the Analytic Hierarchy Process (AHP) and Entropy Method to establish a robust reputation index model, which was subsequently applied in project rankings, facilitating data-driven decision-making.
        + Collaborated as a team member to provide technical support for the 2025 China Advertising Great Wall Award.
 
     - name: Digital Museum of Chinese Language and Characters Project
       link:
-      # tags: committer
+      authors: Communication University of China, National Key Laboratory of Media Convergence and Communication, National Advertising Museum
       date: 2023
       description: |
         + Contributed to the creation of the digital museum platform by utilizing the Vue.js framework to develop a responsive front-end interface, significantly enhancing user experience and interactivity.
         + Implemented the HTTP Live Streaming (HLS) protocol to encrypt streaming video, ensuring the secure transmission and playback of digital resources. Successfully generated M3U8 index files that contained encryption information, safeguarding the integrity of the content.
+    
+    - name: Research on Discourse Meaning Computation for Artificial Intelligence
+      authors: Communication University of China, National Key Laboratory of Media Convergence and Communication, Key Research Project of the National Language Commission
+      date: 2022
+      description: |
+        + Participated in data cleaning, annotation, and preprocessing to prepare for feature extraction and model training in the field of discourse meaning computation.
+        + Collaborated with the team to apply natural language processing techniques and deep learning methods for effective feature extraction and semantic representation of linguistic data.
+        + Contributed to the advancement of AI-driven discourse analysis, enhancing the understanding of language semantics.
 
 experience:
   show: true
@@ -72,7 +80,7 @@ experience:
   #   The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
 
   items:
-    - company: Mathematical Contest in Modeling Moritorious Winner (Top 6%)
+    - company: Mathematical Contest in Modeling, Meritorious Winner
       # link: '#'
       # tags: Full-time
       date: 2024.02
@@ -81,7 +89,12 @@ experience:
       # description: |
       #   + Independently tackled Problem 2 and collaboratively addressed Problem 3 with teammate.
       #   + Innovatively employed large language models to assist in scoring.
-
+    - company: China Collegiate Algorithm Design & Programming Challenge Contest, Bronze Medal
+      date: 2024.03
+    - company: MathorCup Collegiate Mathematical Modeling Challenge - Big Data Competition, Second Prize
+      date: 2023.12
+    - company: Network Security Group Third Prize of Blue Bridge Cup Competition, Third Prize 
+      date: 2024.05
 skill:
   show: true
   order: 7
@@ -101,6 +114,7 @@ publication:
       # link: '#'
       description: |
         + Conducted foundational model implementations, including Singular Value Decomposition (SVD), Factorization Machines (FM), Bayesian Personalized Ranking (BPR), and LightGCN, enhancing coding proficiency and deepening understanding of recommendation algorithms.
+        + Developed a deep understanding of large language models (LLMs), and conducted extensive research on their applications in recommendation systems. Focused on how LLMs can enhance traditional models by incorporating open-world knowledge and contextual information, summarizing effective integration strategies to improve recommendation accuracy. 
         + Engaged in an extensive literature review of cutting-edge research on Bundle Generation, synthesizing insights from recent publications to identify gaps and potential improvements in existing methodologies.
         + Actively contributed to team discussions by presenting findings from literature, proposing innovative approaches to integrate large language models for improved task performance in intelligent recommendation systems.
 
