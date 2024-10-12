@@ -6,8 +6,8 @@ basic:
   name: Yile Li                     # name
 
   avatar:
-    show: false                       # show or hide avatar
-    path: /assets/images/profile.png  # file path or link to your avatar
+    show: true                       # show or hide avatar
+    path: /assets/images/profile3.png  # file path or link to your avatar
 
 contact:
   # location: Beijing, China  # location, text or markdown link syntax
@@ -70,12 +70,13 @@ project:
       description: |
         + Participated in data cleaning, annotation, and preprocessing to prepare for feature extraction and model training in the field of discourse meaning computation.
         + Collaborated with the team to apply natural language processing techniques and deep learning methods for effective feature extraction and semantic representation of linguistic data.
-        + Contributed to the advancement of AI-driven discourse analysis, enhancing the understanding of language semantics.
-
+        
 experience:
   show: true
   order: 4
   title: Competition Experiences
+  description: |
+    I actively seek opportunities in competitions to enhance my knowledge and foster personal growth, and have been fortunate to receive recognition in every competition I participated in.
   # description: |
   #   The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
 
@@ -86,14 +87,14 @@ experience:
       date: 2024.02
       # role: Backend Developer
       # location: Beijing
-      # description: |
-      #   + Independently tackled Problem 2 and collaboratively addressed Problem 3 with teammate.
-      #   + Innovatively employed large language models to assist in scoring.
+      description: |
+        + Independently completed Problems 2 and 3, collected extensive data from multiple sources for modeling, and innovatively utilized large models to simulate expert scoring.
     - company: China Collegiate Algorithm Design & Programming Challenge Contest, Bronze Medal
       date: 2024.03
     - company: MathorCup Collegiate Mathematical Modeling Challenge - Big Data Competition, Second Prize
       date: 2023.12
-    - company: Network Security Group Third Prize of Blue Bridge Cup Competition, Third Prize 
+      description: |
+    - company: Network Security Track of Blue Bridge Cup Competition, Third Prize 
       date: 2024.05
 skill:
   show: true
@@ -114,10 +115,9 @@ publication:
       # link: '#'
       description: |
         + Conducted foundational model implementations, including Singular Value Decomposition (SVD), Factorization Machines (FM), Bayesian Personalized Ranking (BPR), and LightGCN, enhancing coding proficiency and deepening understanding of recommendation algorithms.
-        + Developed a deep understanding of large language models (LLMs), and conducted extensive research on their applications in recommendation systems. Focused on how LLMs can enhance traditional models by incorporating open-world knowledge and contextual information, summarizing effective integration strategies to improve recommendation accuracy. 
-        + Engaged in an extensive literature review of cutting-edge research on Bundle Generation, synthesizing insights from recent publications to identify gaps and potential improvements in existing methodologies.
-        + Actively contributed to team discussions by presenting findings from literature, proposing innovative approaches to integrate large language models for improved task performance in intelligent recommendation systems.
-
+        + Engaged in an extensive literature review of cutting-edge research on Bundle Generation and the role of Language Models in enhancing Recommendation Systems, synthesizing insights from numerous publications to pinpoint technical gaps and propose potential improvements.
+        + Evolved from adopting and mimicking existing ideas to independently proposing, refining, and testing my own hypotheses. Throughout this process, I gained valuable experience in organizing research concepts, identifying key problems, and applying technical solutions, which provided me with new insights into scientific research and reinforced my belief in my significant potential and progress.
+    
     - title: Privacy-Preserving Computing with XGBoost 
       authors: Team Leader
       conference: College Students' Innovative Entrepreneurial Training Program, Ministry Level Project
