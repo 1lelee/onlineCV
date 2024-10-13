@@ -7,7 +7,7 @@ basic:
 
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/images/profile3.png  # file path or link to your avatar
+    path: /assets/images/profile4.png  # file path or link to your avatar
 
 contact:
   # location: Beijing, China  # location, text or markdown link syntax
@@ -48,29 +48,38 @@ project:
   items:
     - name: China Enterprise Brand Case Bank
       link: 
-      authors: Communication University of China, National Key Laboratory of Media Convergence and Communication, Key Project of the Ministry of Education
+      authors: National Key Laboratory of Media Convergence and Communication of Communication University of China, National Advertising Museum
       date: 2024
       description: |
        + Led the front-end and back-end development using the Vue.js framework, vben and flask, implementing real-time data display and user interaction features to enhance user experience.
-       + Participated in fine-tuning the brand large model using low-rank matrix factorization methods, with a focus on its application in brand reputation analysis to facilitate intelligent brand management.
-       + Conducted preliminary research to develop a brand reputation index, employing the Analytic Hierarchy Process (AHP) and Entropy Method to establish a robust reputation index model, which was subsequently applied in project rankings, facilitating data-driven decision-making.
-       + Collaborated as a team member to provide technical support for the 2025 China Advertising Great Wall Award.
+       + Participated in fine-tuning the large model using LoRA methods, focusing on its application in brand reputation analysis.
+       + Conducted preliminary research to develop a brand reputation index, employing the Analytic Hierarchy Process (AHP) and Entropy Method to establish a robust reputation index model, which was subsequently applied in project rankings.
+       + Collaborated with the National Advertising Museum to provide technical support as a team member for the 2025 China Advertising Great Wall Award.
+
+    - name: Integrated Practice in Software Engineering for Vulnerability Exploitation
+      authors: Communication University of China, Information Security Comprehensive Practice Course
+      date: 2024
+      description: |
+       + Developed a secure cloud storage system using the Flask framework, featuring strong password authentication, file encryption and decryption, and digital signatures.
+       + Build on that, we designed a unique and comprehensive exploitation path for SSTI injection, session forgery, and deserialization vulnerabilities. 
+       + The project also integrated automated exploitation (exp) scripts for flag retrieval, verification (check) scripts to ensure service stability, Docker-based automated deployment, and auto-generated security patches. 
+       + This project was completed in 15 days during the summer semester, and our team was the only one in the class to achieve a perfect score.
 
     - name: Digital Museum of Chinese Language and Characters Project
       link:
-      authors: Communication University of China, National Key Laboratory of Media Convergence and Communication, National Advertising Museum
+      authors: Communication University of China, National Key Laboratory of Media Convergence and Communication, Key Project of the Ministry of Education
       date: 2023
       description: |
-        + Contributed to the creation of the digital museum platform by utilizing the Vue.js framework to develop a responsive front-end interface, significantly enhancing user experience and interactivity.
-        + Implemented the HTTP Live Streaming (HLS) protocol to encrypt streaming video, ensuring the secure transmission and playback of digital resources. Successfully generated M3U8 index files that contained encryption information, safeguarding the integrity of the content.
+        + Contributed to the creation of the digital museum platform by utilizing the Vue.js framework.
+        + Implemented the HTTP Live Streaming (HLS) protocol to encrypt streaming video, generating M3U8 index files with encryption information to ensure secure content transmission.
     
     - name: Research on Discourse Meaning Computation for Artificial Intelligence
       authors: Communication University of China, National Key Laboratory of Media Convergence and Communication, Key Research Project of the National Language Commission
       date: 2022
       description: |
         + Participated in data cleaning, annotation, and preprocessing to prepare for feature extraction and model training in the field of discourse meaning computation.
-        + Collaborated with the team to apply natural language processing techniques and deep learning methods for effective feature extraction and semantic representation of linguistic data.
-        
+        + Learned to apply NLP techniques and deep learning methods to enhance feature extraction and semantic representation of linguistic data within a collaborative team environment.
+
 experience:
   show: true
   order: 4
@@ -114,7 +123,7 @@ publication:
       conference: Duration:Aug 2023 - now
       # link: '#'
       description: |
-        + Conducted foundational model implementations, including Singular Value Decomposition (SVD), Factorization Machines (FM), Bayesian Personalized Ranking (BPR), and LightGCN, enhancing coding proficiency and deepening understanding of recommendation algorithms.
+        + Conducted foundational model replication, including Singular Value Decomposition (SVD), Factorization Machines (FM), Bayesian Personalized Ranking (BPR), and LightGCN, enhancing coding proficiency and deepening understanding of recommendation algorithms.
         + Engaged in an extensive literature review of cutting-edge research on Bundle Generation and the role of Language Models in enhancing Recommendation Systems, synthesizing insights from numerous publications to pinpoint technical gaps and propose potential improvements.
         + Evolved from adopting and mimicking existing ideas to independently proposing, refining, and testing my own hypotheses. Throughout this process, I gained valuable experience in organizing research concepts, identifying key problems, and applying technical solutions, which provided me with new insights into scientific research and reinforced my belief in my significant potential and progress.
     
