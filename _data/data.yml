@@ -51,35 +51,32 @@ project:
       authors: National Key Laboratory of Media Convergence and Communication of Communication University of China, National Advertising Museum
       date: 2024
       description: |
-       + Led the front-end and back-end development using the Vue.js framework, vben and flask, implementing real-time data display and user interaction features to enhance user experience.
-       + Participated in fine-tuning the large model using LoRA methods, focusing on its application in brand reputation analysis.
-       + Conducted preliminary research to develop a brand reputation index, employing the Analytic Hierarchy Process (AHP) and Entropy Method to establish a robust reputation index model, which was subsequently applied in project rankings.
-       + Collaborated with the National Advertising Museum to provide technical support as a team member for the 2025 China Advertising Great Wall Award.
+       + Led front-end and back-end development using Vue.js and Flask, implementing real-time data display and user interaction features. 
+       + Fine-tuned a large model with LoRA methods for its application on brand reputation analysis. 
+       + Conducted preliminary research to develop a brand reputation index using AHP and Entropy Method, applied in project rankings. 
+       + Collaborated with the National Advertising Museum, providing technical support for the 2025 China Advertising Great Wall Award.
 
     - name: Integrated Practice in Software Engineering for Vulnerability Exploitation
       authors: Communication University of China, Information Security Comprehensive Practice Course
       date: 2024
       description: |
-       + Developed a secure cloud storage system using the Flask framework, featuring strong password authentication, file encryption and decryption, and digital signatures.
-       + Build on that, we designed a unique and comprehensive exploitation path for SSTI injection, session forgery, and deserialization vulnerabilities. 
-       + The project also integrated automated exploitation (exp) scripts for flag retrieval, verification (check) scripts to ensure service stability, Docker-based automated deployment, and auto-generated security patches. 
-       + This project was completed in 15 days during the summer semester, and our team was the only one in the class to achieve a perfect score.
-
+       + Developed a secure cloud storage system using Flask, featuring strong password authentication, file encryption, and digital signatures. 
+       + Designed a complete and sole exploitation path based on the cloud storage system for SSTI injection, session forgery, and deserialization vulnerabilities. 
+       + Integrated automated exploitation scripts for flag retrieval, verification scripts for service stability, Docker-based deployment, and effective security patches.
+       + Completed the project in 15 days, achieving a perfect score as the only team in the class.
     - name: Digital Museum of Chinese Language and Characters Project
       link:
       authors: Communication University of China, National Key Laboratory of Media Convergence and Communication, Key Project of the Ministry of Education
       date: 2023
       description: |
-        + Contributed to the creation of the digital museum platform by utilizing the Vue.js framework.
-        + Implemented the HTTP Live Streaming (HLS) protocol to encrypt streaming video, generating M3U8 index files with encryption information to ensure secure content transmission.
-    
+       + Contributed to the development of the digital museum platform using Vue.js. 
+       + Implemented the HLS protocol to encrypt streaming video, generating M3U8 index files for secure content transmission.    
     - name: Research on Discourse Meaning Computation for Artificial Intelligence
       authors: Communication University of China, National Key Laboratory of Media Convergence and Communication, Key Research Project of the National Language Commission
       date: 2022
       description: |
-        + Participated in data cleaning, annotation, and preprocessing to prepare for feature extraction and model training in the field of discourse meaning computation.
-        + Learned to apply NLP techniques and deep learning methods to enhance feature extraction and semantic representation of linguistic data within a collaborative team environment.
-
+        + Conducted data cleaning, annotation, and preprocessing for feature extraction in discourse meaning computation. 
+        + Applied NLP techniques and deep learning to enhance semantic representation of linguistic data in a team setting.
 experience:
   show: true
   order: 4
@@ -123,17 +120,16 @@ publication:
       conference: Duration:Aug 2023 - now
       # link: '#'
       description: |
-        + Conducted foundational model replication, including Singular Value Decomposition (SVD), Factorization Machines (FM), Bayesian Personalized Ranking (BPR), and LightGCN, enhancing coding proficiency and deepening understanding of recommendation algorithms.
-        + Engaged in an extensive literature review of cutting-edge research on Bundle Generation and the role of Language Models in enhancing Recommendation Systems, synthesizing insights from numerous publications to pinpoint technical gaps and propose potential improvements.
-        + Evolved from adopting and mimicking existing ideas to independently proposing, refining, and testing my own hypotheses. Throughout this process, I gained valuable experience in organizing research concepts, identifying key problems, and applying technical solutions, which provided me with new insights into scientific research and reinforced my belief in my significant potential and progress.
+       + Learned and Replicated foundational models (SVD, FM, BPR, LightGCN, etc.) to enhance coding skills and deepen understanding of recommendation algorithms. 
+       + Conducted a thorough literature review on Bundle Generation and the integration of Language Models in recommendation systems, identifying gaps and proposing improvements. 
+       + This experience honed my ability to formulate and test hypotheses, sharpen research organization, and apply technical solutions, reinforcing my confidence in scientific research.
     
-    - title: Privacy-Preserving Computing with XGBoost 
+    - title: Implementation of Privacy Computing in XGBoost Algorithm.
       authors: Team Leader
       conference: College Students' Innovative Entrepreneurial Training Program, Ministry Level Project
       description: |
-        + Led a multidisciplinary team in exploring and implementing privacy-preserving techniques using XGBoost for predictive modeling, successfully securing provincial-level innovation project funding.
-        + Conducted in-depth research and replication of a privacy-preserving predictive model based on Federated XGBoost, deepening understanding of decentralized machine learning and its vital role in enhancing data privacy.
-
+       + Led a multidisciplinary team, receiving official data support from the college, to explore privacy-preserving techniques using XGBoost.
+       + Conducted research and replicated a Federated XGBoost model, deepening understanding of decentralized machine learning and its role in data privacy.
 award:
   show: true
   order: 5
@@ -141,20 +137,22 @@ award:
   items:
     - name: Merit Student
       # awarder: by Communication University of China
-      date: 2022, 2023
+      date: 2021-2022, 2022-2023
       # link: '#'
       # description: |
       #   It's my Example Awared One by Example.
     - name: Excellent Student Cadre
       # awarder:  by Communication University of China
-      date: 2022
+      date: 2021-2022
       link:
       # description: |
       #   It's my Example Awared Two by Example.
     - name: National Encouragement Scholarship
       # awarder: by China
-      date: 2022, 2023
+      date: 2021-2022, 2022-2023
       # link: '#'
+    - name: Excellent League Member
+      date: 2022-2023
 
 # certificate:
 #   show: false
