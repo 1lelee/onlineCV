@@ -34,7 +34,7 @@ education:
   items:
     - institution: Communication University of China(Project 211)
       link: 'https://www.cuc.edu.cn/'
-      date: Sept 2021 - Jun 2025
+      date: 09/2021 - 06/2025
       major: Cyberspace Security
       degree: Bachelor
       description: |
@@ -90,18 +90,18 @@ experience:
     - company: Mathematical Contest in Modeling, Meritorious Winner
       # link: '#'
       # tags: Full-time
-      date: 2024.02
+      date: 02/2024
       # role: Backend Developer
       # location: Beijing
       description: |
         + Independently completed Problems 2 and 3, collected extensive data from multiple sources for modeling, and innovatively utilized large models to simulate expert scoring.
     - company: China Collegiate Algorithm Design & Programming Challenge Contest, Bronze Medal
-      date: 2024.03
+      date: 03/2024
     - company: MathorCup Collegiate Mathematical Modeling Challenge - Big Data Competition, Second Prize
-      date: 2023.12
+      date: 12/2023
       description: |
     - company: Network Security Track of Blue Bridge Cup Competition, Third Prize 
-      date: 2024.05
+      date: 05/2024
 skill:
   show: true
   order: 7
@@ -116,8 +116,9 @@ publication:
   title: Research Experiments
   items:
     - title: Large Language Model for Bundle Generation
+      date: 08/2023 - now
       authors: Multimedia Computing Laboratory Academic Training Season, Communication University of China
-      conference: Duration:Aug 2023 - now
+      
       # link: '#'
       description: |
        + Learned and Replicated foundational models (SVD, FM, BPR, LightGCN, etc.) to enhance coding skills and deepen understanding of recommendation algorithms. 
@@ -125,8 +126,8 @@ publication:
        + This experience honed my ability to formulate and test hypotheses, sharpen research organization, and apply technical solutions, reinforcing my confidence in scientific research.
     
     - title: Implementation of Privacy Computing in XGBoost Algorithm.
-      authors: Team Leader
-      conference: College Students' Innovative Entrepreneurial Training Program, Ministry Level Project
+      date: 05/2023 - 12/2023
+      conference: Team Leader, College Students' Innovative Entrepreneurial Training Program, Ministry Level Project
       description: |
        + Led a multidisciplinary team, receiving official data support from the college, to explore privacy-preserving techniques using XGBoost.
        + Conducted research and replicated a Federated XGBoost model, deepening understanding of decentralized machine learning and its role in data privacy.
@@ -137,22 +138,22 @@ award:
   items:
     - name: Merit Student
       # awarder: by Communication University of China
-      date: 2021-2022, 2022-2023
+      date: 2021/22, 2022/23
       # link: '#'
       # description: |
       #   It's my Example Awared One by Example.
     - name: Excellent Student Cadre
       # awarder:  by Communication University of China
-      date: 2021-2022
+      date: 2021/22
       link:
       # description: |
       #   It's my Example Awared Two by Example.
     - name: National Encouragement Scholarship
       # awarder: by China
-      date: 2021-2022, 2022-2023
+      date: 2021/22, 2022/23
       # link: '#'
     - name: Excellent League Member
-      date: 2022-2023
+      date: 2022/23
 
 # certificate:
 #   show: false
