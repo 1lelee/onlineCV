@@ -48,31 +48,31 @@ project:
   items:
     - name: China Enterprise Brand Case Bank
       link: 
-      authors: National Key Laboratory of Media Convergence and Communication of Communication University of China, National Advertising Museum
+      authors: National Key Laboratory of Media Convergence and Communication, Communication University of China; National Institute of Advertising
       date: 2024
       description: |
        + Led front-end and back-end development using Vue.js and Flask, implementing real-time data display and user interaction features. 
        + Fine-tuned a large model with LoRA methods for its application on brand reputation analysis. 
-       + Conducted preliminary research to develop a brand reputation index using AHP and Entropy Method, applied in project rankings. 
-       + Collaborated with the National Advertising Museum, providing technical support for the 2025 China Advertising Great Wall Award.
+       + Conducted preliminary research to develop a brand reputation index using AHP and Entropy Method, applied in project rankings affecting over 250 brands. 
+       + Collaborated with the National Institute of Advertising, providing technical support for the 2025 China Advertising Great Wall Award.
 
     - name: Integrated Practice in Software Engineering for Vulnerability Exploitation
-      authors: Communication University of China, Information Security Comprehensive Practice Course
+      authors: Information Security Comprehensive Practice Course, Communication University of China
       date: 2024
       description: |
        + Developed a secure cloud storage system using Flask, featuring strong password authentication, file encryption, and digital signatures. 
        + Designed a complete and sole exploitation path based on the cloud storage system for SSTI injection, session forgery, and deserialization vulnerabilities. 
-       + Integrated automated exploitation scripts for flag retrieval, verification scripts for service stability, Docker-based deployment, and effective security patches.
-       + Completed the project in 15 days, achieving a perfect score as the only team in the class.
+       + Integrated automated scripts for flag retrieval(exp script) and verification(check script), implemented Docker-based deployment, achieving a perfect score in the course.
+
     - name: Digital Museum of Chinese Language and Characters Project
       link:
-      authors: Communication University of China, National Key Laboratory of Media Convergence and Communication, Key Project of the Ministry of Education
+      authors: National Key Laboratory of Media Convergence and Communication, Communication University of China; Key Project of the Ministry of Education
       date: 2023
       description: |
        + Contributed to the development of the digital museum platform using Vue.js. 
        + Implemented the HLS protocol to encrypt streaming video, generating M3U8 index files for secure content transmission.    
     - name: Research on Discourse Meaning Computation for Artificial Intelligence
-      authors: Communication University of China, National Key Laboratory of Media Convergence and Communication, Key Research Project of the National Language Commission
+      authors: National Key Laboratory of Media Convergence and Communication, Communication University of China; Key Research Project of the National Language Commission
       date: 2022
       description: |
         + Conducted data cleaning, annotation, and preprocessing for feature extraction in discourse meaning computation. 
@@ -116,16 +116,15 @@ publication:
   title: Research Experiments
   items:
     - title: Large Language Model for Bundle Generation
-      date: 08/2023 - now
+      date: 08/2023 - Present
       authors: Multimedia Computing Laboratory Academic Training Season, Communication University of China
       
       # link: '#'
       description: |
-       + Learned and replicated foundational recommendation algorithms (SVD, FM, BPR, LightGCN), enhancing coding skills and deepening understanding of their mechanics.
+       + Replicated key recommendation algorithms(SVD, FM, BPR, LightGCN, etc), deepening coding skills and understanding of their mechanics.
        + Conducted an extensive review of cutting-edge research in recommendation systems, with a focus on bundle generation and the integration of large language models into traditional methodologies.
        + Proposed a prototype for a recommendation system for bundle generation, leveraging the associative capacity of language models and the structural awareness of graph neural networks. Currently refining model details and advancing the replication of baselines.
-       + Participated in weekly discussions and presentations on temporal knowledge graphs and recommendation system attack strategies, enhancing awareness of contemporary research challenges. 
-       + This experience refined my hypothesis formulation, research organization, and technical application skills, providing a robust understanding of scientific inquiry and its practical applications.
+       + Actively participate in weekly academic discussions and presentations to stay updated on research related to temporal knowledge graphs, as well as attacks on recommendation systems and their defense strategies.
     
     - title: Implementation of Privacy Computing in XGBoost Algorithm.
       date: 05/2023 - 12/2023
