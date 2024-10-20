@@ -39,7 +39,7 @@ education:
       degree: Bachelor
       description: |
         + GPA : 3.67/4.00
-        + Relevant Courses : Artificial Intelligence(96), Computer Composition and System Architecture(97), Reverse Engineering and Software Security(98), Cybersecurity(97)
+        + Relevant Courses : Artificial Intelligence, Advanced Mathematics, Linear Algebra, Reverse Engineering and Software Security, Cybersecurity
 
 project:
   show: true
@@ -121,9 +121,11 @@ publication:
       
       # link: '#'
       description: |
-       + Learned and Replicated foundational models (SVD, FM, BPR, LightGCN, etc.) to enhance coding skills and deepen understanding of recommendation algorithms. 
-       + Conducted a thorough literature review on Bundle Generation and the integration of Language Models in recommendation systems, identifying gaps and proposing improvements. 
-       + This experience honed my ability to formulate and test hypotheses, sharpen research organization, and apply technical solutions, reinforcing my confidence in scientific research.
+       + Learned and replicated foundational recommendation algorithms (SVD, FM, BPR, LightGCN), enhancing coding skills and deepening understanding of their mechanics.
+       + Conducted an extensive review of cutting-edge research in recommendation systems, with a focus on bundle generation and the integration of large language models into traditional methodologies.
+       + Proposed a prototype for a recommendation system for bundle generation, leveraging the associative capacity of language models and the structural awareness of graph neural networks. Currently refining model details and advancing the replication of baselines.
+       + Participated in weekly discussions and presentations on temporal knowledge graphs and recommendation system attack strategies, enhancing awareness of contemporary research challenges. 
+       + This experience refined my hypothesis formulation, research organization, and technical application skills, providing a robust understanding of scientific inquiry and its practical applications.
     
     - title: Implementation of Privacy Computing in XGBoost Algorithm.
       date: 05/2023 - 12/2023
