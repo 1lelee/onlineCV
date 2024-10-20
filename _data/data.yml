@@ -143,7 +143,7 @@ award:
       # link: '#'
       # description: |
       #   It's my Example Awared One by Example.
-    - name: Excellent Student Cadre
+    - name: Outstanding Student Leader
       # awarder:  by Communication University of China
       date: 2021/22
       link:
@@ -155,6 +155,9 @@ award:
       # link: '#'
     - name: Excellent League Member
       date: 2022/23
+      
+    - name: Outstanding Student Union Contributor
+      date: 2021/22, 2022/23
 
 # certificate:
 #   show: false
