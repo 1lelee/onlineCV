@@ -94,14 +94,13 @@ experience:
       # role: Backend Developer
       # location: Beijing
       description: |
-        + Modeling and discussion on extreme weather from the insurance industry, the construction industry, and cultural preservation.
+        + Modeling extreme weather from the perspectives of the insurance industry, construction industry, and cultural preservation.
     - company: China Collegiate Algorithm Design & Programming Challenge Contest, Bronze Medal
       date: 03/2024
     - company: MathorCup Collegiate Mathematical Modeling Challenge, Second Prize
       date: 12/2023
       description: |
         + Building models for order forecasting tasks using LSTM and XGBoost methods.
-      description: |
     - company: Network Security Track of Blue Bridge Cup Competition, Third Prize 
       date: 05/2024
 skill:
